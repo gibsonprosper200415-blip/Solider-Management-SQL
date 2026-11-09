@@ -1,7 +1,7 @@
-# Solider-Management-SQL
+# Solider-Management-SQL .
 SQL Database Assignment-Solider Management System
 
-Soldier Management System (SMS): Army Training School Database
+Soldier Management System (SMS): Army Training School Database.
 1. Project Title
 Soldier Management System (SMS)
 Item	Detail
